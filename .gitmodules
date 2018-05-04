@@ -1,0 +1,3 @@
+[submodule "src/cryptonote"]
+	path = src/cryptonote
+	url = https://github.com/BisqueCash/BisqueCashWallet.git
